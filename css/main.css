@@ -97,8 +97,9 @@ textarea {
 
 /*Large Background Image*/
 html {
-  background: url('../img/bkgd.jpg') no-repeat center center fixed;
+  background: url('../img/SSS\ Think\ Pink\ 12.jpg') no-repeat center center fixed;
   height: 100%;
+  width:auto;
 }
 
 body {
@@ -120,10 +121,9 @@ body {
 
   align-items: center;
   display: flex;
-  background: #222;
-  background:rgba(0,0,0,0.7);
-  color: #fff;
-  font-family: 'Source Sans Pro', sans-serif;
+  background:rgba(216, 220, 255, 0.7);
+  color:#03256C;
+  font-family: 'Poppins', sans-serif;
   font-weight: 300;
   font-size: 1.25em;
   line-height: 1.5em;
@@ -134,9 +134,9 @@ body {
 }
 
 #content p span {
-  font-family: 'Lora', sans-serif;
+  font-family: 'Playfair Display', serif;
+  font-size: 1.5em;
 }
-
 
 
 
